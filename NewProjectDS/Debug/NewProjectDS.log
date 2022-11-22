@@ -1,0 +1,26 @@
+﻿  NewProjectDS.cpp
+F:\Projects\NewProjectDS\NewProjectDS\Wallet.cpp(64,20): warning C4018: '<': signed/unsigned mismatch
+F:\Projects\NewProjectDS\NewProjectDS\Wallet.cpp(83,15): warning C4018: '<': signed/unsigned mismatch
+F:\Projects\NewProjectDS\NewProjectDS\Wallet.cpp(164,21): warning C4018: '<': signed/unsigned mismatch
+F:\Projects\NewProjectDS\NewProjectDS\Wallet.cpp(225,21): warning C4018: '<': signed/unsigned mismatch
+F:\Projects\NewProjectDS\NewProjectDS\Wallet.cpp(293,21): warning C4018: '<': signed/unsigned mismatch
+F:\Projects\NewProjectDS\NewProjectDS\Wallet.cpp(355,21): warning C4018: '<': signed/unsigned mismatch
+F:\Projects\NewProjectDS\NewProjectDS\Wallet.cpp(405,20): warning C4018: '<': signed/unsigned mismatch
+F:\Projects\NewProjectDS\NewProjectDS\Wallet.cpp(449,20): warning C4018: '<': signed/unsigned mismatch
+F:\Projects\NewProjectDS\NewProjectDS\Wallet.cpp(491,20): warning C4018: '<': signed/unsigned mismatch
+F:\Projects\NewProjectDS\NewProjectDS\Wallet.cpp(535,20): warning C4018: '<': signed/unsigned mismatch
+F:\Projects\NewProjectDS\NewProjectDS\Wallet.cpp(583,20): warning C4018: '<': signed/unsigned mismatch
+  Wallet.cpp
+F:\Projects\NewProjectDS\NewProjectDS\Wallet.cpp(64,20): warning C4018: '<': signed/unsigned mismatch
+F:\Projects\NewProjectDS\NewProjectDS\Wallet.cpp(83,15): warning C4018: '<': signed/unsigned mismatch
+F:\Projects\NewProjectDS\NewProjectDS\Wallet.cpp(164,21): warning C4018: '<': signed/unsigned mismatch
+F:\Projects\NewProjectDS\NewProjectDS\Wallet.cpp(225,21): warning C4018: '<': signed/unsigned mismatch
+F:\Projects\NewProjectDS\NewProjectDS\Wallet.cpp(293,21): warning C4018: '<': signed/unsigned mismatch
+F:\Projects\NewProjectDS\NewProjectDS\Wallet.cpp(355,21): warning C4018: '<': signed/unsigned mismatch
+F:\Projects\NewProjectDS\NewProjectDS\Wallet.cpp(405,20): warning C4018: '<': signed/unsigned mismatch
+F:\Projects\NewProjectDS\NewProjectDS\Wallet.cpp(449,20): warning C4018: '<': signed/unsigned mismatch
+F:\Projects\NewProjectDS\NewProjectDS\Wallet.cpp(491,20): warning C4018: '<': signed/unsigned mismatch
+F:\Projects\NewProjectDS\NewProjectDS\Wallet.cpp(535,20): warning C4018: '<': signed/unsigned mismatch
+F:\Projects\NewProjectDS\NewProjectDS\Wallet.cpp(583,20): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  NewProjectDS.vcxproj -> F:\Projects\NewProjectDS\Debug\NewProjectDS.exe
